@@ -1,5 +1,5 @@
 ## BMI Calculator
-This project is a simple web-based BMI (Body Mass Index) calculator that calculates the BMI of a person based on their weight and height, and displays the result along with a BMI status message.
+This project is a simple web-based BMI (Body Mass Index) calculator that calculates the BMI of a person based on their weight and height, and displays the result along with a BMI status message. Please note that BMI alone isn't enough to give exact status of your health but it does give a rough estimate.
 
 ## Technologies Used
 The project is built using HTML, CSS, and JavaScript.
